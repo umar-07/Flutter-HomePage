@@ -1,4 +1,4 @@
-# ninja_id
+# Profile
 
 A new Flutter application.
 
